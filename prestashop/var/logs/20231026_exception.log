@@ -1,0 +1,1 @@
+*ERROR* 	v8.1.0	2023/10/26 - 14:33:58: La longueur du champ Ybc_blog_free_category_class-&amp;gt;url_alias est actuellement 530 caract&egrave;res. Il doit &ecirc;tre entre 0 et 500 caract&egrave;res. at line 1151 in file classes/ObjectModel.php
